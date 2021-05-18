@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "7849925614",
+    "project_id": "plantsnestflutter",
+    "storage_bucket": "plantsnestflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7849925614:android:63abf200d3215a93b94cff",
+        "android_client_info": {
+          "package_name": "com.example.plantsnest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7849925614-abdkjnqbvags7ma3k1qfulfjdppurefg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantsnest",
+            "certificate_hash": "9b9644dd2e343f2526e07f1e0bc1d14cf41aad81"
+          }
+        },
+        {
+          "client_id": "7849925614-ra0m6ouhfp4ge69qfqkakd7hlfr6gsjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeBJxpz51JwjaU0dhhloRZvBMK-83Av0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7849925614-ra0m6ouhfp4ge69qfqkakd7hlfr6gsjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
