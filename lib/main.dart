@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:plantsnest/Models/expense.dart';
 import 'package:plantsnest/Screens/ExpenseScreen.dart';
 import 'package:plantsnest/Screens/GoalsScreen.dart';
 import 'package:plantsnest/Screens/LandingScreen.dart';

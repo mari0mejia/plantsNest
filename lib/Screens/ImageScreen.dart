@@ -6,7 +6,6 @@ import 'package:plantsnest/Screens/ExpenseScreen.dart';
 import 'package:plantsnest/Screens/GoalsScreen.dart';
 import 'package:plantsnest/Screens/TimelineScreen.dart';
 import '../post_item.dart';
-import '../dummy_data.dart';
 import '../image_item.dart';
 import '../Screens/ImageScreen.dart';
 

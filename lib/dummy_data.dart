@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
 import 'package:plantsnest/Models/post.dart';
-import 'package:plantsnest/goal_item.dart';
 import 'Models/goal.dart';
 import 'Models/expense.dart';
 

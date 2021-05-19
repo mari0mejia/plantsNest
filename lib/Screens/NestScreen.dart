@@ -4,7 +4,6 @@ import './TimelineScreen.dart';
 
 class NestScreen extends StatefulWidget {
   static const routeName = '/nests';
-  String _user;
 
   @override
   _NestScreenState createState() => _NestScreenState();
@@ -16,8 +15,6 @@ class _NestScreenState extends State<NestScreen> {
     final routeArgs =
         ModalRoute.of(context).settings.arguments as Map<String, User>;
     final _user = routeArgs['user'];
-    print('lol');
-    print(_user.uid);
     return Container(
       child: Scaffold(
         appBar: AppBar(

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:plantsnest/Screens/ExpenseScreen.dart';
-import 'Screens/TimelineScreen.dart';
 
 class ExpenseItem extends StatelessWidget {
   String title;

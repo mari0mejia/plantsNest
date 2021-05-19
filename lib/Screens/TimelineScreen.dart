@@ -16,7 +16,6 @@ class TimelineScreen extends StatelessWidget {
     final routeArgs =
         ModalRoute.of(context).settings.arguments as Map<String, User>;
     final userInfo = routeArgs['user'];
-    print('lol');
     return Container(
       child: Scaffold(
         appBar: AppBar(
@@ -99,7 +98,7 @@ class TimelineScreen extends StatelessWidget {
                 padding: EdgeInsets.all(10),
                 height: 100,
                 child: Text(
-                  "V1.0.0",
+                  "GM 0.1",
                   style: TextStyle(fontWeight: FontWeight.bold),
                 )),
           ]),

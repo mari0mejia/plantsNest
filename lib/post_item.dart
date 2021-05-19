@@ -8,10 +8,10 @@ class PostItem extends StatelessWidget {
   final String body;
 
   PostItem(
-    @required this.id,
-    @required this.title,
-    @required this.img,
-    @required this.body,
+    this.id,
+    this.title,
+    this.img,
+    this.body,
   );
 
   void selectCategory(BuildContext ctx) {

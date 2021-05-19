@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:plantsnest/Screens/GoalsScreen.dart';
-import 'Screens/TimelineScreen.dart';
 
 class GoalItem extends StatelessWidget {
   final String title;

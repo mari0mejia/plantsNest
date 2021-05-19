@@ -14,7 +14,6 @@ class _NestScreenState extends State<NestScreen> {
     final routeArgs =
         ModalRoute.of(context).settings.arguments as Map<String, User>;
     final userInfo = routeArgs['user'];
-    print('lol');
     print(userInfo.uid);
     return Container(
       child: Scaffold(
